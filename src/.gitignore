@@ -19,11 +19,3 @@ logs/
 
 # Allow overrides in docker-bake
 .docker/docker-bake.override.hcl
-
-/src/ardusub_driver
-/src/auv_controllers
-/src/hydrodynamics
-/src/mavlink
-/src/mavros
-/src/mobile_to_maritime
-/src/install_geographiclib_datasets.sh
